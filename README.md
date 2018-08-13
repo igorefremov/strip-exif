@@ -1,6 +1,6 @@
 # strip-exif
+
 A Python script to strip EXIF data from images.
----
 
 ## Dependencies
 * [Pillow](https://pillow.readthedocs.io/en/latest/)
